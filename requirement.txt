@@ -1,0 +1,8 @@
+base64
+math
+streamlit
+pandas
+numpy
+pillow
+qdrant-client==1.1.1
+transformers
